@@ -57,4 +57,4 @@ Database setup: <add the steps from your Part 2 here>
 
 A GitHub Actions workflow (`.github/workflows/ci.yml`) builds the projects and runs the unit tests on every push.
 
-## Demo video
+
